@@ -1,2 +1,2 @@
-# web-dev-py
-a series of projects related to manipulating and working with websites 
+# Web Development with python 
+This repository consists of the projects that I made with the Microweb framework called Flask 
